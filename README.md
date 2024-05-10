@@ -1,0 +1,1 @@
+A Tic-Tac-Toe app created with Python that allows for Player vs. Player matches and Player vs. AI matches. The AI uses a minimax algorithm, rendering it unbeatable.
